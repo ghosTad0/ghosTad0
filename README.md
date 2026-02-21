@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tuan Azzam
 
 <br />
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer;Full-Stack+Developer;DevOps+Enthusiast;AI+%2F+ML+explorer+and+researcher)](https://git.io/typing-svg)
+https://readme-typing-svg.herokuapp.com/demo/?lines=Software+Engineer;Full-Stack+Developer;DevOps+Enthusiast;AI+%2F+ML+explorer+and+researcher
 
 <br />
 <br />
