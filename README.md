@@ -14,7 +14,7 @@ I am a passionate software engineer at [hSenid Mobile Solutions (Pvt) Ltd](https
 
 ---
 
-## 🚀 What I Work With
+## 🛠️ Tech Stack
 
 ### Frontend
 - React
