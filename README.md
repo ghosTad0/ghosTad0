@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Tuan Azzam
 
-### Full-Stack Engineer | TypeScript Specialist | Systems Thinker
+## 🚀 About Me
+
+### I am a passionate software engineer at [hSenid Mobile Solutions (Pvt) Ltd.](https://hsenidmobile.com/). From the beginning of my carreer I was moved with the technology and it's contribution of solving problems of modern world. And the inspiration I had from the Open Source community is the one thing that led me to contribute to the world, with the solutions which I can provide in my way. One of my ultimate goal would be creating an opensource library where the developers can use and get inspired just like me, to contribute to the community.
 
 I build clean, scalable systems with a strong focus on architecture, performance, and maintainability.
 
