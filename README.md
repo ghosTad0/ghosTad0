@@ -6,6 +6,12 @@
 
 I am a passionate software engineer at [hSenid Mobile Solutions (Pvt) Ltd.](https://hsenidmobile.com/). From the beginning of my carreer I was moved with the technology and it's contribution of solving problems of modern world. And the inspiration I had from the Open Source community is the one thing that led me to contribute to the world, with the solutions which I can provide in my way. One of my ultimate goal would be creating an opensource library where the developers can use and through that inspire them just like me, to contribute to the community.
 
+- 🔭 Currently working on Full Stack Development, DevOps automation
+- 🌱 Deepening expertise in AI/ML, Data Engineering, Cloud Platforms and Software Engineering Basics and Theories
+- 👨‍💻 Experienced in Full-Stack Development, Automation and System Monitoring
+- 💬 Ask me about Python, JavaScript, JavaScript libraries and Frameworks, Containerization and Ochestration, System Monitoring Tools and Workflow Automation Tools (like [n8n](https://n8n.io))
+- 🔗 Let’s connect on [LinkedIn](https://www.linkedin.com/in/tuan-azzam/)
+
 ---
 
 ## 🚀 What I Work With
