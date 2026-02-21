@@ -37,13 +37,28 @@ I am a passionate software engineer at [hSenid Mobile Solutions (Pvt) Ltd](https
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Frontend
-- React
-- Next.js
-- TypeScript
-- React Hook Form
-- Zod
-- TailwindCSS
+### 🗄️ Databases, ORMs & DataBase tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MongoExpress](https://img.shields.io/badge/MongoExpress-000000?style=for-the-badge&logo=express&logoColor=white)
+![Adminer](https://img.shields.io/badge/Adminer-FF6600?style=for-the-badge&logo=database&logoColor=white)
+
+<br />
+
+![Prisma](https://img.shields.io/badge/Prisma-0C344B?style=for-the-badge&logo=prisma&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-000000?style=for-the-badge&logo=python&logoColor=white)
+![MongoEngine](https://img.shields.io/badge/MongoEngine-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Beanie](https://img.shields.io/badge/Beanie-000000?style=for-the-badge&logo=python&logoColor=white)
+
+### ☁️ DevOps & Cloud
+
+
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![Ansible Automation Platform](https://img.shields.io/badge/Ansible_Automation_Platform-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![LangFlow](https://img.shields.io/badge/LangFlow-000000?style=for-the-badge&logo=python&logoColor=white)
 
 ### Backend
 - Node.js
