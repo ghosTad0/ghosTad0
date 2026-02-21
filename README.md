@@ -60,21 +60,23 @@ I am a passionate software engineer at [hSenid Mobile Solutions (Pvt) Ltd](https
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 ![LangFlow](https://img.shields.io/badge/LangFlow-000000?style=for-the-badge&logo=python&logoColor=white)
 
-### Backend
-- Node.js
-- Python
-- SQLAlchemy
-- MySQL
-- Docker
+### 🤖 Data Engineering & Machine Learning
 
-### Architecture & Systems
-- API rate limiting strategies
-- Structured logging & observability
-- Secure authentication flows
-- Database optimization
-- Clean code & modular design
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
----
+
+### 🕵️‍♂️ Monitoring & Performance Testing
+
+![Wireshark](https://img.shields.io/badge/Wireshark-0678BE?style=for-the-badge&logo=wireshark&logoColor=white)
+![Jaeger](https://img.shields.io/badge/Jaeger-FE6600?style=for-the-badge&logo=jaegertracing&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-008000?style=for-the-badge&logo=python&logoColor=white)
+![Apache JMeter](https://img.shields.io/badge/Apache_JMeter-DB7B2B?style=for-the-badge&logo=apachejmeter&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-FF6600?style=for-the-badge&logo=prometheus&logoColor=white)
+
+<br />
 
 ## 🧠 What I Care About
 
